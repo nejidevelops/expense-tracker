@@ -1,5 +1,8 @@
-import './App.css';
+// Components imports
 import Header from './components/Header';
+
+// Styling imports
+import './App.css';
 
 function App() {
   return (
